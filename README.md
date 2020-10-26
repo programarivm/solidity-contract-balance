@@ -1,4 +1,4 @@
-# The Git Way to Get a Solidity Contract Balance
+# The Git Way for a Node.js App to Get a Solidity Contract Balance
 
 Learning to build dapps step by step? Just go take a cup of coffee and browse the commit log of this repo!
 
